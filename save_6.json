@@ -1,11 +1,11 @@
 {
   "area": "5",
   "text": "泉野",
-  "update_at": 1582729772118,
+  "update_at": 1582816172258,
   "html": [
-    "<div class=\"left-day\">今日</div><div class=\"accordion-table\"><img src=\"img/moyasu02.svg\" alt=\"燃やすごみ\"></div><h6><p class=\"text-left date\">毎週月曜日 毎週木曜日  2020/2/27</p></h6>",
-    "<div class=\"left-day\">明日</div><div class=\"accordion-table\"><img src=\"img/shigen02.svg\" alt=\"資源\"></div><h6><p class=\"text-left date\">第2金曜日 第4金曜日  2020/2/28</p></h6>",
-    "<div class=\"left-day\">6日後</div><div class=\"accordion-table\"><img src=\"img/bin02.svg\" alt=\"あきびん\"></div><h6><p class=\"text-left date\">第1水曜日  2020/3/4</p></h6>",
-    "<div class=\"left-day\">22日後</div><div class=\"accordion-table\"><img src=\"img/moyasanai02.svg\" alt=\"燃やさないごみ\"></div><h6><p class=\"text-left date\">第3金曜日  2020/3/20</p></h6>"
+    "<div class=\"left-day\">今日</div><div class=\"accordion-table\"><img src=\"img/shigen02.svg\" alt=\"資源\"></div><h6><p class=\"text-left date\">第2金曜日 第4金曜日  2020/2/28</p></h6>",
+    "<div class=\"left-day\">3日後</div><div class=\"accordion-table\"><img src=\"img/moyasu02.svg\" alt=\"燃やすごみ\"></div><h6><p class=\"text-left date\">毎週月曜日 毎週木曜日  2020/3/2</p></h6>",
+    "<div class=\"left-day\">5日後</div><div class=\"accordion-table\"><img src=\"img/bin02.svg\" alt=\"あきびん\"></div><h6><p class=\"text-left date\">第1水曜日  2020/3/4</p></h6>",
+    "<div class=\"left-day\">21日後</div><div class=\"accordion-table\"><img src=\"img/moyasanai02.svg\" alt=\"燃やさないごみ\"></div><h6><p class=\"text-left date\">第3金曜日  2020/3/20</p></h6>"
   ]
 }
