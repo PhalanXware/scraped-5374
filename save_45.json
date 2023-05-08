@@ -1,11 +1,11 @@
 {
   "area": "44",
   "text": "額",
-  "update_at": 1683472231509,
+  "update_at": 1683558630566,
   "html": [
-    "<div class=\"left-day\">明日</div><div class=\"accordion-table\"><img src=\"img/moyasu02.svg\" alt=\"燃やすごみ\"></div><h6><p class=\"text-left date\">毎週火曜日 毎週金曜日  2023/5/9</p></h6>",
-    "<div class=\"left-day\">3日後</div><div class=\"accordion-table\"><img src=\"img/shigen02.svg\" alt=\"資源\"></div><h6><p class=\"text-left date\">第2木曜日 第4木曜日 第5木曜日  2023/5/11</p></h6>",
-    "<div class=\"left-day\">9日後</div><div class=\"accordion-table\"><img src=\"img/bin02.svg\" alt=\"あきびん\"></div><h6><p class=\"text-left date\">第3水曜日  2023/5/17</p></h6>",
-    "<div class=\"left-day\">24日後</div><div class=\"accordion-table\"><img src=\"img/moyasanai02.svg\" alt=\"燃やさないごみ\"></div><h6><p class=\"text-left date\">第1木曜日  2023/6/1</p></h6>"
+    "<div class=\"left-day\">今日</div><div class=\"accordion-table\"><img src=\"img/moyasu02.svg\" alt=\"燃やすごみ\"></div><h6><p class=\"text-left date\">毎週火曜日 毎週金曜日  2023/5/9</p></h6>",
+    "<div class=\"left-day\">明後日</div><div class=\"accordion-table\"><img src=\"img/shigen02.svg\" alt=\"資源\"></div><h6><p class=\"text-left date\">第2木曜日 第4木曜日 第5木曜日  2023/5/11</p></h6>",
+    "<div class=\"left-day\">8日後</div><div class=\"accordion-table\"><img src=\"img/bin02.svg\" alt=\"あきびん\"></div><h6><p class=\"text-left date\">第3水曜日  2023/5/17</p></h6>",
+    "<div class=\"left-day\">23日後</div><div class=\"accordion-table\"><img src=\"img/moyasanai02.svg\" alt=\"燃やさないごみ\"></div><h6><p class=\"text-left date\">第1木曜日  2023/6/1</p></h6>"
   ]
 }
